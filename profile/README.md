@@ -34,5 +34,5 @@ purpose  →  evidence  →  progress
 
 <div align="center">
 <br>
-<sub>Early days · Building in the open · <code>team@yourdomain.com</code></sub>
+<sub>Early days · Building in the open · <code>team@telosresearch.com</code></sub>
 </div>
