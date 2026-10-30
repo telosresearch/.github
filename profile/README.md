@@ -14,7 +14,7 @@
 
 Every project starts as a point on the horizon. We build tools that help small teams reach it, with evidence at every step.
 
-### ✦ Currently building: NOVA
+### ✦ Currently building: TELOS
 
 *A shared space for turning possibilities into reality.*
 
