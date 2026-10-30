@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./<img width="512" height="512" alt="download" src="https://github.com/user-attachments/assets/26e22047-5aab-49ba-b83c-fa3604640e21" />
-" width="96" alt="Telos logo" />
+<img src="./download.png" width="96" alt="Telos logo" />
 
 # T E L O S
 
